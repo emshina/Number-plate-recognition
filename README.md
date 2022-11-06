@@ -9,6 +9,13 @@ Therefore, it is not possible to catch and punish those kinds of people because 
 Our Detect and Recognize Vehicle License Plate will detect the license plate from an image and video. It can also detect in real-time using OpenCV and Python-tesseract. The user will just need to upload an image or video from their device.
 also we need a 
 
+WORKING OF THE PROJECT 
+
+This system will detect and recognize vehicle license plates from a user’s uploaded file. The system can also detect vehicle number plates in real-time, by just clicking on the device’s camera.
+The system will detect and recognize the license plate and if it’s been detected, it will be displayed to the user. The front-end involves Html, CSS, and JavaScript and the back-end involves Python. The framework used is Django and the database is MySQL. 
+We have implemented OpenCV and Python-tesseract libraries. Python-tesseract is a wrapper for Google’s Tesseract-OCR Engine. It is also useful as a stand-alone invocation script to tesseract, as it can read all image types supported.
+
+
 
 ADVANTAGES
 
